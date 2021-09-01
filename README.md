@@ -2,7 +2,7 @@
 This repository is an example setup of how Discover Our Parks, LLC creates our Monthly Newsletter Emails.
 
 ## Check out the code!
-To view where we start, check out the files in the `src` folder. The data is pulled from the `assets` json files and used in the `partials` files.
+To view where we start, check out the files in the [`src`](src/) folder. The data is pulled from the [`assets`](src/assets/) json files and used in the [`partials`](src/partials/) files.
 
 Using [GULP](https://github.com/gulpjs/gulp), [PANINI](https://github.com/foundation/panini), and base code of [MJML](https://github.com/mjmlio/mjml), we automate the structure and setup to an easy to copy HTML file to send using our email campaign software.
 
