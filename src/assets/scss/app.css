@@ -1,0 +1,128 @@
+body {
+  background-color: #133133;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500; }
+
+h2,
+h5 {
+  margin-top: 0;
+  margin-bottom: 0; }
+
+.no-padding-vertical > table > tbody > tr > td {
+  padding-top: 0 !important;
+  padding-bottom: 0 !important; }
+
+.font-oswald {
+  font-family: "Oswald", sans-serif;
+  font-weight: 600; }
+
+.button a {
+  background-color: #B49167 !important;
+  color: #ffffff !important; }
+
+.button td:hover,
+.button a:hover {
+  background-color: #023E40 !important;
+  color: #B49167 !important; }
+
+.link {
+  color: inherit !important; }
+
+.link:hover {
+  color: #B49167 !important; }
+
+.social a {
+  margin: 0 5px; }
+
+.facebook {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  border: 1px solid #B49167;
+  background: url(https://888826.smushcdn.com/2058704/wp-content/uploads/2021/03/facebook-brands.png?lossy=0&strip=1&webp=1) center/14px 14px no-repeat; }
+
+.facebook:hover {
+  border: 1px solid #035A5D;
+  background: url(https://888826.smushcdn.com/2058704/wp-content/uploads/2021/03/facebook-brands_hover.png?lossy=0&strip=1&webp=1) center/14px 14px no-repeat; }
+
+.twitter {
+  display: inline-block;
+  width: 33px;
+  height: 33px;
+  border: 1px solid #B49167;
+  background: url(https://888826.smushcdn.com/2058704/wp-content/uploads/2021/03/twitter-brands.png?lossy=0&strip=1&webp=1) center/14px 14px no-repeat; }
+
+.twitter:hover {
+  border: 1px solid #035A5D;
+  background: url(https://888826.smushcdn.com/2058704/wp-content/uploads/2021/03/twitter-brands_hover.png?lossy=0&strip=1&webp=1) center/14px 14px no-repeat; }
+
+.patreon {
+  display: inline-block;
+  width: 33px;
+  height: 33px;
+  border: 1px solid #B49167;
+  background: url(https://888826.smushcdn.com/2058704/wp-content/uploads/2021/03/patreon-brands.png?lossy=0&strip=1&webp=1) center/14px 14px no-repeat; }
+
+.patreon-white {
+  display: inline-block;
+  width: 33px;
+  height: 33px;
+  border: none;
+  background: url(https://discoverourparks.com//_emails/email-005-2020-10-week-3/patreon-white.png) center/14px 14px no-repeat; }
+
+.patreon:hover,
+.patreon-white:hover {
+  border: 1px solid #035A5D;
+  background: url(https://888826.smushcdn.com/2058704/wp-content/uploads/2021/03/patreon-brands_hover.png?lossy=0&strip=1&webp=1) center/14px 14px no-repeat; }
+
+.patreon-white:hover {
+  border: none; }
+
+.instagram {
+  display: inline-block;
+  width: 33px;
+  height: 33px;
+  border: 1px solid #B49167;
+  background: url(https://888826.smushcdn.com/2058704/wp-content/uploads/2021/03/instagram-brands.png?lossy=0&strip=1&webp=1) center/14px 14px no-repeat; }
+
+.instagram:hover {
+  border: 1px solid #035A5D;
+  background: url(https://888826.smushcdn.com/2058704/wp-content/uploads/2021/03/instagram-brands_hover.png?lossy=0&strip=1&webp=1) center/14px 14px no-repeat; }
+
+.hero-text-adjuster > table > tbody > tr > td {
+  padding-left: 0 !important;
+  padding-right: 0 !important; }
+
+@media all and (min-width: 500px) {
+  .hero-text-adjuster > table > tbody > tr > td {
+    padding-left: 50px !important;
+    padding-right: 50px !important; } }
+.dop-navbar-link:hover {
+  color: #B49167 !important; }
+
+@media only screen and (max-width: 600px) {
+  .mj-menu-checkbox[type="checkbox"] ~ .mj-inline-links .dop-navbar-link:last-child {
+    padding-bottom: 30px !important; } }
+.patreon-hero td:nth-child(2) {
+  padding: 16px !important; }
+
+@media all and (max-width: 600px) {
+  .news-title div h5 {
+    text-align: center; }
+
+  .twitter-group > div:nth-child(1) {
+    padding-left: 5% !important;
+    width: 15% !important; }
+
+  .twitter-group > div:nth-child(2) {
+    padding-right: 5% !important;
+    width: 75% !important; } }
+.news-text p {
+  margin-bottom: 0;
+  margin-top: 0; }
+
+.image-credits li {
+  padding-top: 6px; }
+
+.image-credits li:first-child {
+  padding-top: 0; }

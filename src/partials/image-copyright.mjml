@@ -1,0 +1,55 @@
+<mj-column>
+	<mj-text color="#888888" align="center" font-family="Oswald, sans-serif" font-weight="600" font-size="20px" padding="0">
+		<h5>Image Credits:</h5>
+	</mj-text>
+	<mj-text css-class="image-credits" color="#888888" align="center" font-family="Montserrat, sans-serif" font-weight="500" font-size="10px" line-height="12px" padding="0">
+		{{#each articles}}
+            {{#if Show}}
+            <p>
+                {{#if Image.OriginalLink}}
+                        <a class="link" href="{{Image.OriginalLink}}" target="_blank">"{{Image.Title}}"</a>
+                    {{else}}
+                        "{{Image.Title}}"
+                    {{/if}}
+                    {{#if Image.Author}} by 
+                        {{#if Image.AuthorLink}}
+                            <a class="link" href="{{Image.AuthorLink}}" target="_blank">{{Image.Author}}</a>
+                        {{else}}
+                            {{Image.Author}}
+                        {{/if}}
+                    {{/if}}
+                    {{#if Image.Rights}} is licensed under 
+                        {{#if Image.RightsLink}}
+                            <a class="link" href="{{Image.RightsLink}}" target="_blank">{{Image.Rights}}</a>
+                        {{else}}
+                            {{Image.Rights}}
+                        {{/if}}
+                    {{/if}}, this image was edited.
+            </p>
+            {{/if}}
+		{{/each}}
+		{{#each news}}
+		<p>
+			{{#if image.originallink}}
+					<a class="link" href="{{image.originallink}}" target="_blank">"{{image.title}}"</a>
+				{{else}}
+					"{{image.title}}"
+				{{/if}}
+				{{#if image.author}} by 
+					{{#if image.authorlink}}
+						<a class="link" href="{{image.authorlink}}" target="_blank">{{image.author}}</a>
+					{{else}}
+						{{image.author}}
+					{{/if}}
+				{{/if}}
+				{{#if image.rights}} is licensed under 
+					{{#if image.rightslink}}
+						<a class="link" href="{{image.rightslink}}" target="_blank">{{image.rights}}</a>
+					{{else}}
+						{{image.rights}}
+					{{/if}}
+				{{/if}}, this image was edited.
+		</p>
+		{{/each}}
+	</mj-text>
+</mj-column>

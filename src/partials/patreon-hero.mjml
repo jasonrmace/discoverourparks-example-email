@@ -1,0 +1,25 @@
+<!-- PATREON HERO PARTIAL CONTENT -->
+<mj-column>
+	<mj-hero
+			 mode="fluid-height"
+			 background-width="600px"
+			 background-height="235px"
+			 background-url="https://888826.smushcdn.com/2058704/wp-content/uploads/2021/03/background_image_with_text-1.png?lossy=0&strip=1&webp=1"
+			 background-color="#023E40"
+			 css-class="patreon-hero"
+			 >
+			<mj-text
+					 container-background-color="rgba(2,62,64,0.50)"
+					 align="center"
+					 color="#ffffff"
+					 line-height="16px"
+					 font-size="14px"
+					 font-family="Montserrat, sans-serif"
+					 font-weight="500"
+					 >
+				<a class="patreon-white" href="http://patreon.com/discoverourparks" title="Patreon"></a>
+				<p>Do you like the content we create at Discover Our Parks? Help us keep it going. Whether you become a subscriber by donating on a monthly basis or you make a one-time donation, your support helps us add new features to make our site your go to place for trip planning. It's super easy. Find out how you can help.</p>
+			</mj-text>
+			<mj-button css-class="button" container-background-color="rgba(2,62,64,0.50)" border="1px solid #B49167" background-color="#B49167" font-family="Oswald, sans-serif" border-radius="30px" font-size="16px" font-weight="600" padding-top="0" padding-bottom="23px" text-transform="uppercase" href="https://discoverourparks.com/support/">Learn how you can support us</mj-button>
+	</mj-hero>
+</mj-column>

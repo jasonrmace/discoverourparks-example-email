@@ -1,0 +1,44 @@
+<!-- Company Header -->
+<mj-section>
+	<mj-column>
+		<mj-image width="300px" src="https://888826.smushcdn.com/2058704/wp-content/uploads/2020/09/main_header_logo-300x171.png?lossy=0&strip=1&webp=1" />
+	</mj-column>
+</mj-section>
+
+<!-- Header Image -->
+<mj-section background-color="#023E40" padding="0">
+	<mj-hero css-class="hero-text-adjuster" mode="fixed-height" height="600px" background-url="https://888826.smushcdn.com/2058704/wp-content/uploads/2021/03/ConfirmHeader3.jpg?lossy=0&strip=1&webp=1" padding-top="146px">
+		<mj-text color="#ffffff" container-background-color="rgba(2,62,64,0.7)" font-family="Oswald, sans-serif" font-weight="600" align="center" font-size="45px" padding-right="0" padding-left="0">TIME IS RUNNING OUT!!!</mj-text>
+		<mj-image container-background-color="rgba(2,62,64,0.7)" src="http://discoverourparks.com/EmailCountdown-master/gif.php?time=2021-03-18T00:00:00"/>
+		<mj-button css-class="button" container-background-color="rgba(2,62,64,0.7)" border="1px solid #B49167;"font-family="Oswald, sans-serif" border-radius="30px" font-size="20px" font-weight="600" padding-bottom="15px" href="{sp-confirm-url}">YES, CONFIRM MY EMAIL</mj-button>
+	</mj-hero>
+</mj-section>
+
+
+<!-- More Info section -->
+<mj-section background-color="#023E40">
+	<mj-column>
+		<mj-text font-family="Montserrat, sans-serif" font-weight="500" align="center" color="#ddd">
+			<h3>WHY ARE YOU RECIEVING THIS EMAIL?</h3>
+			<p>At some point your email was used to subscribe to Discover Our Parks' Newsletter. You did not respond to our confirmation email and you are not currently recieving our newsletters. To make sure our mailing list stays clean, we periodically remove unconfirmed subscribers, but we wanted to give you one last chance to confirm your email.</p>
+			<p>All you need to do is click the button above and you will be confirmed.<br><em>It's that simple!</em></p>
+		</mj-text>
+		<mj-text font-family="Montserrat, sans-serif" font-weight="500" align="center" color="#ddd">Confirm your email address to make sure you don't miss out on the latest from Discover Our Parks.</mj-text>
+		<mj-text font-family="Montserrat, sans-serif" font-weight="500" align="center" color="#ddd">You can unsubscribe at any time and if you have any questions, contact us at <a class="link" href="mailto:newsletter@discoverourparks.com">newsletter@discoverourparks.com</a></mj-text>
+	</mj-column>
+</mj-section>
+
+<!-- Social icons -->
+<mj-section background-color="#133133" padding-bottom="0">
+	<mj-column>
+		<mj-text font-family="Montserrat, sans-serif" font-weight="500" align="center" color="#ddd">Follow Us On:</mj-text>
+	</mj-column>
+</mj-section>
+<mj-section background-color="#133133" text-align="center" padding-top="0">
+	{{> social}}
+</mj-section>
+		
+<!-- Footer -->
+<mj-section background-color="#133133" text-align="center" padding-top="0">
+	{{> footer}}
+</mj-section>

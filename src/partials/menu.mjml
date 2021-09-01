@@ -1,0 +1,9 @@
+<!-- MENU PARTIAL CONTENT -->
+<mj-column background-color="#023E40">
+	<mj-navbar base-url="https://discoverourparks.com" hamburger="hamburger" ico-color="#ffffff" ico-padding="10px 10px 15px">
+		<mj-navbar-link css-class="dop-navbar-link" font-family="Montserrat, sans-serif" font-weight="500" href="/" color="#ffffff" font-family="Montserrat, san-serif" font-weight="500" title="Discover Our Parks Home Page">Home</mj-navbar-link>
+		<mj-navbar-link css-class="dop-navbar-link" font-family="Montserrat, sans-serif" font-weight="500" href="/us-national-parks" color="#ffffff">National Parks</mj-navbar-link>
+		<mj-navbar-link css-class="dop-navbar-link" font-family="Montserrat, sans-serif" font-weight="500" href="/us-state-parks" color="#ffffff">State Parks</mj-navbar-link>
+		<mj-navbar-link css-class="dop-navbar-link" font-family="Montserrat, sans-serif" font-weight="500" href="/campgrounds" color="#ffffff">Campgrounds</mj-navbar-link>
+	</mj-navbar>
+</mj-column>

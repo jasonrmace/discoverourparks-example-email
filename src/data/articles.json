@@ -1,0 +1,76 @@
+[{
+	"Info": "Main Article",
+	"MainArticle": true,
+	"SubArticle": false,
+	"Title": "Earth Day 2021",
+	"Text": "Today is Earth Day!</p><p>Our National Parks provide an escape both mentally and physically from our everyday lives but we all must do our part to protect these national treasures.</p><p>What are you doing to help preserve and protect our home this Earth Day and everyday?</p><p>It's also #NationalParkWeek! Get involved on social media and share your passion for our National Parks (and don't forget to tag us in your posts).</p><p>Learn more on how the National Park Service is celebrating Earth Day and the things they are doing to protect our parks, as well as what you can do to help.",
+	"Image": {
+		"ShowLink": "https://888826.smushcdn.com/2058704/wp-content/uploads/2021/04/Main-Article-Header.png?lossy=0&strip=1&webp=1",
+		"Title": "Iceberg in Glacier Bay National Park",
+		"OriginalLink": "https://www.flickr.com/photos/naturenps/32238783940/",
+		"Author": "NPS Photo",
+		"AuthorLink": "",
+		"Rights": "CC0 1.0",
+		"RightsLink": "https://creativecommons.org/publicdomain/zero/1.0/"
+	},
+	"Link": "https://discoverourparks.com/gcuc",
+	"ButtonText": "Read More Here",
+    "Show": true
+}, {
+	"Info": "Sub Article 1",
+	"MainArticle": false,
+	"SubArticle": true,
+	"Title": "Discover Our Parks Website Update",
+	"Text": "Coming this May...</p><p>Discover Our Parks' website will be getting an update. With new menu design, easier to find information, park and campground ratings, and much more! We'll also begin adding all the other National Park Service sites to help you discover even more amazing places to visit and stay.</p><p>Learn more about this upcoming \"facelift\" and how you can get an early peak when the time comes.",
+	"Image": {
+		"ShowLink": "https://888826.smushcdn.com/2058704/wp-content/uploads/2021/04/sub-article-1.png?lossy=0&strip=1&webp=1",
+		"Title": "Discover Our Parks - Version 2.0 Menu Preview",
+		"OriginalLink": "",
+		"Author": "Discover Our Parks, LLC",
+		"AuthorLink": "",
+		"Rights": "Permission of the Copyright holder",
+		"RightsLink": "https://copyright.gov/"
+	},
+	"Link": "https://discoverourparks.com/1z4p",
+	"ButtonText": "Learn More Here",
+	"NPTarticle": false,
+    "Show": true
+}, {
+	"Info": "Sub Article 2",
+	"MainArticle": false,
+	"SubArticle": true,
+	"Title": "State Parks are about to drop",
+	"Text": "Also beginning in May and throughout the summer, State Parks will start dropping on the site!</p><p>With over 3,729 state parks, planning trips and finding all the places to visit and stay will be much easier.</p><p>Make sure you take our State Parks poll now because this determines the order the parks will become available on our site. And don't forget to become a Patreon supporter for more updates and early access to the State Parks.",
+	"Image": {
+		"ShowLink": "https://888826.smushcdn.com/2058704/wp-content/uploads/2021/04/sub-article-2.jpg?lossy=0&strip=1&webp=1",
+		"Title": "Arch Rock, Mackinac Island",
+		"OriginalLink": "https://commons.wikimedia.org/wiki/File:Arch_Rock,_Mackinac_Island,_7.26.2014.jpg",
+		"Author": "N8huckins",
+		"AuthorLink": "https://commons.wikimedia.org/w/index.php?title=User:N8huckins&action=edit&redlink=1",
+		"Rights": "CC BY-SA 3.0",
+		"RightsLink": "https://creativecommons.org/licenses/by-sa/3.0/"
+	},
+	"Link": "https://discoverourparks.com/ussp",
+	"ButtonText": "Take the Poll",
+	"NPTarticle": false,
+    "Show": true
+}, {
+	"Info": "POTM Article",
+	"MainArticle": false,
+	"SubArticle": true,
+	"Title": "April 2021 - Park of the Month",
+	"Text": "Discovering the beauty of our April 2021 - Park of the Month is an amazing experience. From beautiful hikes into the lower canyons to learning how water & wind can change and transform the landscape, this park has something for everyone!</p><p>Learn more about this fascinating park with recommendations on the best hikes, campgrounds and other activities to enjoy, in the article.",
+	"Image": {
+		"ShowLink": "https://888826.smushcdn.com/2058704/wp-content/uploads/2021/04/POTM-Article.png?lossy=0&strip=1&webp=1",
+		"Title": "Bryce Amphitheater in Winter",
+		"OriginalLink": "https://www.flickr.com/photos/tristanloper/36132931372/",
+		"Author": "Tristan Loper",
+		"AuthorLink": "https://www.flickr.com/photos/tristanloper/",
+		"Rights": "CC by 2.0",
+		"RightsLink": "https://creativecommons.org/licenses/by/2.0/"
+	},
+	"Link": "https://discoverourparks.com/apr2021",
+	"ButtonText": "Read More Here",
+	"NPTarticle": false,
+    "Show": true
+}]

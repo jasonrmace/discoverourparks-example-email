@@ -1,0 +1,26 @@
+<!-- SUB ARTICLES PARTIAL CONTENT -->
+<!-- ARTICLE 1 -->
+<mj-column background-color="#fefefe" padding="8px">
+	<mj-image padding="0" src="{{articles.1.Image.ShowLink}}" alt="{{articles.1.Title}}" href="{{articles.1.Link}}"/>
+	<mj-text font-family="Montserrat, sans-serif" font-size="14px" line-height="16px" font-weight="500" color="#0a0a0a" container-background-color="#fefefe" align="left" padding-left="0" padding-right="0">
+		<p>{{{articles.1.Text}}}</p>
+	</mj-text>
+	{{#if articles.1.NPTarticle}}
+	<mj-text font-family="Montserrat, sans-serif" font-size="14px" line-height="16px" font-weight="500" color="#0a0a0a" align="center" padding="0"><b>THIS ARTICLE IS FROM:</b></mj-text>
+	<mj-image src="https://888826.smushcdn.com/2058704/wp-content/uploads/2021/02/NationalParksTraveler-logo.png?lossy=0&strip=1&webp=1" alt="National Parks Traveler Article" href="https://www.nationalparkstraveler.org/" padding-top="0" />
+	{{/if}}
+	<mj-button css-class="button" container-background-color="#fefefe" border="1px solid #B49167" background-color="#B49167" font-family="Oswald, sans-serif" border-radius="30px" font-size="16px" font-weight="600" padding-top="0" padding-bottom="23px" text-transform="uppercase" href="{{articles.1.Link}}">{{articles.1.ButtonText}}</mj-button>
+</mj-column>
+
+<!-- ARTICLE 2 -->
+<mj-column background-color="#fefefe" padding="8px">
+	<mj-image padding="0" src="{{articles.2.Image.ShowLink}}" alt="{{articles.2.Title}}" href="{{articles.2.Link}}"/>
+	<mj-text font-family="Montserrat, sans-serif" font-size="14px" line-height="16px" font-weight="500" color="#0a0a0a" container-background-color="#fefefe" align="left" padding-left="0" padding-right="0">
+		<p>{{{articles.2.Text}}}</p>
+	</mj-text>
+	{{#if articles.2.NPTarticle}}
+	<mj-text font-family="Montserrat, sans-serif" font-size="14px" line-height="16px" font-weight="500" color="#0a0a0a" align="center" padding="0"><b>THIS ARTICLE IS FROM:</b></mj-text>
+	<mj-image src="https://888826.smushcdn.com/2058704/wp-content/uploads/2021/02/NationalParksTraveler-logo.png?lossy=0&strip=1&webp=1" alt="National Parks Traveler Article" href="https://www.nationalparkstraveler.org/" padding-top="0" />
+	{{/if}}
+	<mj-button css-class="button" container-background-color="#fefefe" border="1px solid #B49167" background-color="#B49167" font-family="Oswald, sans-serif" border-radius="30px" font-size="16px" font-weight="600" padding-top="0" padding-bottom="23px" text-transform="uppercase" href="{{articles.2.Link}}">{{articles.2.ButtonText}}</mj-button>
+</mj-column>

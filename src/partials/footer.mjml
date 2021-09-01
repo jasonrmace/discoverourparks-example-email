@@ -1,0 +1,12 @@
+<mj-column>
+	<mj-text color="#ddd" align="center" font-family="Montserrat, sans-serif" font-weight="500">
+		<a class="link" href="{sp-browser-url}">View this Email as a Web Page</a>
+	</mj-text>
+	<mj-text color="#ddd" align="center" font-family="Montserrat, sans-serif" font-weight="500">
+		<p style="padding: 0 0 3px; margin: 0;">Discover Our Parks, LLC</p>
+		<a class="link" href="mailto:newsletter@discoverourparks.com">newsletter@discoverourparks.com</a>
+	</mj-text>
+	<mj-text color="#ddd" align="center" font-family="Montserrat, sans-serif" font-weight="500">
+		<a class="link" href="{sp-unsubscribe-url}">Unsubscribe Here</a>
+	</mj-text>
+</mj-column>

@@ -1,0 +1,74 @@
+<!-- PARK NEWS PARTIAL CONTENT -->
+<!-- PARK NEWS HEADER -->
+<mj-section padding="0">
+	<mj-column background-color="#023E40" padding="16px 8px">
+		<mj-text font-family="Oswald, sans-serif" font-weight="600" color="#B49167" align="center" font-size="20px" text-transform="uppercase" padding="0" text-decoration="underline">
+			<h2>More Park News</h2>
+		</mj-text>
+	</mj-column>
+</mj-section>
+
+{{#each news}}
+
+<!-- NEWS TITLE -->
+<mj-section background-color="#023E40" padding="0 8px">
+	<mj-column padding="8px">
+		<mj-text css-class="news-title" font-family="Oswald, sans-serif" font-weight="600" color="#ffffff" font-size="20px" line-height="22px" text-transform="uppercase" padding="0" text-decoration="underline">
+			<h5><a class="link" href="{{link}}" target="_blank">{{title}}</a></h5>
+		</mj-text>
+	</mj-column>
+</mj-section>
+
+<!-- NEWS ARTICLE EXCERPT AND BUTTON -->
+<mj-section background-color="#023E40" padding="0 8px">
+	<mj-column background-color="#023E40" padding="8px" width="170px">
+		<mj-image padding="0" src="{{image.showlink}}" alt="{{title}}" href="{{link}}" width="170px" />
+	</mj-column>
+	<mj-column background-color="#023E40" padding="8px" width="414px">
+		<mj-text css-class="news-text" font-family="Montserrat, sans-serif" font-size="14px" line-height="16px" font-weight="500" color="#ffffff" container-background-color="#023E40" align="left" padding="0">
+			<p>{{text}}</p>
+		</mj-text>
+		{{#if NPTarticle}}
+		<mj-group width="100%" padding-top="16px">
+			<mj-column padding="0">
+				<mj-text font-family="Montserrat, sans-serif" font-size="10px" line-height="16px" font-weight="500" color="#ffffff" align="center" padding="0"><b>THIS ARTICLE IS FROM:</b></mj-text>
+				<mj-image src="https://888826.smushcdn.com/2058704/wp-content/uploads/2021/02/NationalParksTraveler-logo.png?lossy=0&strip=1&webp=1" alt="National Parks Traveler Article" href="https://www.nationalparkstraveler.org/" padding="0" width="153px" />
+			</mj-column>
+			<mj-column padding="0">
+				<mj-button css-class="button" padding="10px 0" container-background-color="#023E40" border="1px solid #B49167" background-color="#B49167" font-family="Oswald, sans-serif" border-radius="30px" font-size="16px" font-weight="600" text-transform="uppercase" href="{{link}}">{{button}}</mj-button>
+			</mj-column>
+		</mj-group>
+		{{else}}
+			<mj-button css-class="button" container-background-color="#023E40" border="1px solid #B49167" background-color="#B49167" font-family="Oswald, sans-serif" border-radius="30px" font-size="16px" font-weight="600" text-transform="uppercase" href="{{link}}">{{button}}</mj-button>
+		{{/if}}
+	</mj-column>
+</mj-section>
+
+<!-- DIVIDER -->
+<mj-section background-color="#023E40" padding="0">
+	<mj-column>
+		<mj-divider border-width="2px" border-style="solid" border-color="#B49167" />
+	</mj-column>
+</mj-section>
+
+{{/each}}
+
+<mj-section background-color="#023E40" padding="0 0 8px">
+	<mj-group css-class="twitter-group" width="60%" padding="0" align="center">
+		<mj-column width="20%">
+			<mj-text padding="10px 0 0 10px">
+				<a href="http://twitter.com/discoverourpark" class="twitter"></a>
+			</mj-text>
+		</mj-column>
+		<mj-column width="80%">
+			<mj-text font-family="Montserrat, sans-serif" font-size="12px" line-height="16px" font-weight="500" color="#ffffff" align="left" padding="0">
+				<p>Follow <a class="link" href="http://twitter.com/discoverourpark">@DiscoverOurPark</a> on Twitter for the latest Park News, including links to articles.</p>
+			</mj-text>
+		</mj-column>
+	</mj-group>
+</mj-section>
+
+
+
+
+

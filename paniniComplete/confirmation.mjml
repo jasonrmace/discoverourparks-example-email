@@ -1,0 +1,75 @@
+<mjml>
+	<mj-head>
+		<mj-raw><link rel="preconnect" href="https://fonts.gstatic.com"></mj-raw>
+		<mj-font name="Oswald" href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" />
+		<mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" />
+		<mj-raw><link rel="stylesheet" type="text/css" href="css/app.css"></mj-raw>
+		<!-- <style> -->
+		<mj-breakpoint width="400px" />
+		<mj-title>Discover Our Parks - Last Chance to Confirm Your Email!</mj-title>
+		<mj-preview>Urgent: Time is running out! Confirm your email now to ensure you recieve the Discover Our Parks Newsletters. Your subscription must be confirmed. | </mj-preview>
+	</mj-head>
+	<mj-body background-color="#133133">
+		<!-- Company Header -->
+		<mj-section>
+			<mj-column>
+				<mj-image width="300px" src="https://888826.smushcdn.com/2058704/wp-content/uploads/2020/09/main_header_logo-300x171.png?lossy=0&strip=1&webp=1" />
+			</mj-column>
+		</mj-section>
+		
+		<!-- Header Image -->
+		<mj-section background-color="#023E40" padding="0">
+			<mj-hero css-class="hero-text-adjuster" mode="fixed-height" height="600px" background-url="https://888826.smushcdn.com/2058704/wp-content/uploads/2021/03/ConfirmHeader3.jpg?lossy=0&strip=1&webp=1" padding-top="228px">
+				<mj-text color="#B49167" container-background-color="rgba(2,62,64,0.7)" font-family="Oswald, sans-serif" font-weight="600" align="center" font-size="53px" padding-right="0" padding-left="0">ONE LAST STEP...</mj-text>
+				<mj-button css-class="button" container-background-color="rgba(2,62,64,0.7)" border="1px solid #B49167;"font-family="Oswald, sans-serif" border-radius="30px" font-size="20px" font-weight="600" padding-bottom="15px" href="{sp-confirm-url}">YES, CONFIRM MY EMAIL</mj-button>
+			</mj-hero>
+		</mj-section>
+		
+		<!-- Introduction Text -->
+		<!--
+		<mj-section background-color="#023E40">
+			<mj-column>
+					<mj-button css-class="button" border="1px solid #B49167;"font-family="Oswald, san-serif" border-radius="30px" font-size="20px" font-weight="600" href="{sp-confirm-url}">YES, CONFIRM MY EMAIL</mj-button>
+			</mj-column></mj-section>
+		-->
+		
+		<!-- More Info section -->
+		<mj-section background-color="#023E40">
+			<mj-column>
+				<mj-text font-family="Montserrat, sans-serif" font-weight="500" align="center" color="#ddd" padding-top="0" padding-bottom="0">
+					<p>Confirm your email address to make sure you don't miss out on the latest from Discover Our Parks.</p>
+					<p>All you need to do is click the button above and you will be confirmed.<br><em>It's that simple!</em></p>
+					<p>You can unsubscribe at any time and if you have any questions, contact us at <a class="link" href="mailto:newsletter@discoverourparks.com">newsletter@discoverourparks.com</a></p>
+				</mj-text>
+			</mj-column>
+		</mj-section>
+		
+		<!-- Social icons -->
+		<mj-section background-color="#133133" text-align="center">
+			<mj-column>
+				<mj-text font-family="Montserrat, sans-serif" font-weight="500" align="center" color="#ddd" padding="0">Follow Us On:</mj-text>
+				<mj-text css-class="social" align="center">
+					<a class="facebook" href="http://facebook.com/discoverourparks" title="Facebook"></a>
+					<a class="twitter" href="http://twitter.com/discoverourpark" title="Twitter"></a>
+					<a class="patreon" href="http://patreon.com/discoverourparks" title="Patreon"></a>
+					<a class="instagram" href="http://instagram.com/discoverourparks" title="Instagram"></a>
+				</mj-text>
+			</mj-column></mj-section>
+				
+		<!-- Footer -->
+		<mj-section background-color="#133133" text-align="center" padding-top="0">
+			<mj-column>
+				<mj-text color="#ddd" align="center" font-family="Montserrat, sans-serif" font-weight="500">
+					<a class="link" href="{sp-browser-url}">View this Email as a Web Page</a>
+				</mj-text>
+				<mj-text color="#ddd" align="center" font-family="Montserrat, sans-serif" font-weight="500">
+					<p style="padding: 0 0 3px; margin: 0;">Discover Our Parks, LLC</p>
+					<a class="link" href="mailto:newsletter@discoverourparks.com">newsletter@discoverourparks.com</a>
+				</mj-text>
+				<mj-text color="#ddd" align="center" font-family="Montserrat, sans-serif" font-weight="500">
+					<a class="link" href="{sp-unsubscribe-url}">Unsubscribe Here</a>
+				</mj-text>
+			</mj-column></mj-section>
+	</mj-body>
+</mjml>
+

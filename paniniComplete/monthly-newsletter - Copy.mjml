@@ -1,0 +1,56 @@
+<mjml>
+	<mj-head>
+<!--		<link rel="preconnect" href="https://fonts.gstatic.com">-->
+		<mj-font name="Oswald" href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" />
+		<mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" />
+<!--		<mj-style> inject-style src="app.css" </mj-style>-->
+<!--		<mj-style><mj-include path="./css/app.css"></mj-include></mj-style>-->
+		<mj-raw><link rel="stylesheet" type="text/css" href="css/app.css"></mj-raw>
+		<mj-title>Discover Our Parks - February 2021 Newsletter</mj-title>
+		<mj-preview>February 2021 - Park of the Month | Searching For Glaciers In The National Parks | Preparing for Spring and Planning Your Trips | Plus Some Park News | And More... | </mj-preview>
+	</mj-head>
+	<mj-body>
+		<mj-section>
+			<mj-column>
+				<mj-image width="300px" src="https://888826.smushcdn.com/2058704/wp-content/uploads/2020/09/main_header_logo-300x171.png?lossy=0&strip=1&webp=1" />
+			</mj-column>
+		</mj-section>
+		<mj-section css-class="no-padding-vertical">
+			<mj-column>
+				<mj-navbar base-url="https://mjml.io" hamburger="hamburger" ico-color="#B49167">
+					<mj-navbar-link href="https://discoverourparks.com" color="#ffffff" font-family="Montserrat, san-serif" font-weight="500">Home</mj-navbar-link>
+					<mj-navbar-link href="/try-it-live" color="#ffffff">Try it live</mj-navbar-link>
+					<mj-navbar-link href="/templates" color="#ffffff">Templates</mj-navbar-link>
+					<mj-navbar-link href="/components" color="#ffffff">Components</mj-navbar-link>
+		        </mj-navbar>
+			</mj-column>
+		</mj-section>
+		
+		
+				<!-- Company Header -->
+				<mj-section background-color="#f0f0f0">
+					<mj-column>
+						<mj-text font-style="italic" font-size="20px" color="#626262">
+							February 2021 - Park of the Month
+						</mj-text>
+					</mj-column>		</mj-section>
+		
+				<!-- Image Header -->
+				<mj-section background-color="#f0f0f0"></mj-section>
+		
+				<!-- Introduction Text -->
+				<mj-section background-color="#fafafa"></mj-section>
+		
+				<!-- 2 columns section -->
+				<mj-section background-color="white"></mj-section>
+		
+				<!-- Icons -->
+				<mj-section background-color="#fbfbfb"></mj-section>
+		
+				<!-- Social icons -->
+				<mj-section background-color="#f0f0f0"></mj-section>
+				
+		
+	</mj-body>
+</mjml>
+

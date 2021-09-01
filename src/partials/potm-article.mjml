@@ -1,0 +1,8 @@
+<!-- POTM ARTICLE PARTIAL CONTENT -->
+<mj-column background-color="#023E40">
+	<mj-image padding="0" src="{{articles.3.Image.ShowLink}}" alt="{{articles.3.Title}}" href="{{articles.3.Link}}"/>
+	<mj-text font-family="Montserrat, sans-serif" font-size="14px" line-height="16px" font-weight="500" color="#ffffff" container-background-color="#023E40" align="center" padding-bottom="0">
+		<p>{{{articles.3.Text}}}</p>
+	</mj-text>
+	<mj-button css-class="button" container-background-color="#023E40" border="1px solid #B49167" background-color="#B49167" font-family="Oswald, sans-serif" border-radius="30px" font-size="16px" font-weight="600" padding-top="0" padding-bottom="23px" text-transform="uppercase" href="{{articles.3.Link}}">{{articles.3.ButtonText}}</mj-button>
+</mj-column>

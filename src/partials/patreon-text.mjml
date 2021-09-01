@@ -1,0 +1,13 @@
+<!-- MAIN ARTICLE PARTIAL CONTENT -->
+<mj-column background-color="#fefefe" padding-top="8px">
+	<mj-text font-family="Oswald, sans-serif" font-weight="600" color="#023E40" align="center" font-size="25px">
+		<h5>Want to suggest a feature or wish we had something on the site?</h5>
+	</mj-text>
+<!--	<mj-divider border-width="2px" border-style="solid" border-color="#B49167" />-->
+	<mj-text font-family="Montserrat, sans-serif" font-size="14px" line-height="16px" font-weight="500" color="#0a0a0a" container-background-color="#fefefe" align="center" padding-bottom="0" padding-top="0">
+		<p>Become a Patreon supporter and get access to our Discord Server!</p>
+		<p>You get direct contact to our creators and development team, as well as access to join conversations with others who are part of the Discover Our Parks community.</p>
+		<p>Become a Patreon Camper or Adventurer to get access to this information, plus other perks!</p>
+	</mj-text>
+	<mj-button css-class="button" container-background-color="#fefefe" border="1px solid #B49167" background-color="#B49167" font-family="Oswald, sans-serif" border-radius="30px" font-size="16px" font-weight="600" padding-top="0" padding-bottom="23px" text-transform="uppercase" href="http://patreon.com/discoverourparks">Learn More Here</mj-button>
+</mj-column>

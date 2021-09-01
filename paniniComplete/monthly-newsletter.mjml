@@ -1,0 +1,454 @@
+<mjml>
+	<mj-head>
+		<mj-raw><link rel="preconnect" href="https://fonts.gstatic.com"></mj-raw>
+		<mj-font name="Oswald" href="https://fonts.googleapis.com/css2?family=Oswald:wght@600&display=swap" />
+		<mj-font name="Montserrat" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap" />
+		<mj-raw><link rel="stylesheet" type="text/css" href="css/app.css"></mj-raw>
+		<!-- <style> -->
+		<mj-breakpoint width="600px" />
+		<mj-title>Discover Our Parks - April 2021 Newsletter</mj-title>
+		<mj-preview>Earth Day 2021 | #NationalParkWeek | April 2021 - Park of the Month | Discover Our Parks Website Update | State Parks are about to drop | Plus More Park News | And More... | </mj-preview>
+	</mj-head>
+	<mj-body background-color="#133133">
+		
+		<mj-wrapper background-color="#133133">
+		<!-- HEADER LOGO -->
+		<mj-section padding-bottom="0">
+			<!-- HEADER LOGO PARTIAL CONTENT -->
+			<mj-column>
+				<mj-image width="300px" src="https://888826.smushcdn.com/2058704/wp-content/uploads/2020/09/main_header_logo-300x171.png?lossy=0&strip=1&webp=1" href="https://discoverourparks.com/" />
+			</mj-column></mj-section>
+		
+		<!-- MENU -->
+		<mj-section css-class="no-padding-vertical">
+			<!-- MENU PARTIAL CONTENT -->
+			<mj-column background-color="#023E40">
+				<mj-navbar base-url="https://discoverourparks.com" hamburger="hamburger" ico-color="#ffffff" ico-padding="10px 10px 15px">
+					<mj-navbar-link css-class="dop-navbar-link" font-family="Montserrat, sans-serif" font-weight="500" href="/" color="#ffffff" font-family="Montserrat, san-serif" font-weight="500" title="Discover Our Parks Home Page">Home</mj-navbar-link>
+					<mj-navbar-link css-class="dop-navbar-link" font-family="Montserrat, sans-serif" font-weight="500" href="/us-national-parks" color="#ffffff">National Parks</mj-navbar-link>
+					<mj-navbar-link css-class="dop-navbar-link" font-family="Montserrat, sans-serif" font-weight="500" href="/us-state-parks" color="#ffffff">State Parks</mj-navbar-link>
+					<mj-navbar-link css-class="dop-navbar-link" font-family="Montserrat, sans-serif" font-weight="500" href="/campgrounds" color="#ffffff">Campgrounds</mj-navbar-link>
+				</mj-navbar>
+			</mj-column>
+		</mj-section>
+		
+		<!-- MAIN ARTICLE -->
+		<mj-section padding="0">
+			<!-- MAIN ARTICLE PARTIAL CONTENT -->
+			<mj-column>
+				<mj-image padding="0" src="https://888826.smushcdn.com/2058704/wp-content/uploads/2021/04/Main-Article-Header.png?lossy&#x3D;0&amp;strip&#x3D;1&amp;webp&#x3D;1" alt="Earth Day 2021" href="https://discoverourparks.com/gcuc"/>
+				<mj-text font-family="Montserrat, sans-serif" font-size="14px" line-height="16px" font-weight="500" color="#0a0a0a" container-background-color="#fefefe" align="center" padding-bottom="0">
+					<p>Today is Earth Day!</p><p>Our National Parks provide an escape both mentally and physically from our everyday lives but we all must do our part to protect these national treasures.</p><p>What are you doing to help preserve and protect our home this Earth Day and everyday?</p><p>It's also #NationalParkWeek! Get involved on social media and share your passion for our National Parks (and don't forget to tag us in your posts).</p><p>Learn more on how the National Park Service is celebrating Earth Day and the things they are doing to protect our parks, as well as what you can do to help.</p>
+				</mj-text>
+				<mj-button css-class="button" container-background-color="#fefefe" border="1px solid #B49167" background-color="#B49167" font-family="Oswald, sans-serif" border-radius="30px" font-size="16px" font-weight="600" padding-top="0" padding-bottom="23px" text-transform="uppercase" href="https://discoverourparks.com/gcuc">Read More Here</mj-button>
+			</mj-column></mj-section>
+		
+		<!-- PATREON HERO -->
+		<mj-section padding="0">
+			<!-- PATREON HERO PARTIAL CONTENT -->
+			<mj-column>
+				<mj-hero
+						 mode="fluid-height"
+						 background-width="600px"
+						 background-height="235px"
+						 background-url="https://888826.smushcdn.com/2058704/wp-content/uploads/2021/03/background_image_with_text-1.png?lossy=0&strip=1&webp=1"
+						 background-color="#023E40"
+						 css-class="patreon-hero"
+						 >
+						<mj-text
+								 container-background-color="rgba(2,62,64,0.50)"
+								 align="center"
+								 color="#ffffff"
+								 line-height="16px"
+								 font-size="14px"
+								 font-family="Montserrat, sans-serif"
+								 font-weight="500"
+								 >
+							<a class="patreon-white" href="http://patreon.com/discoverourparks" title="Patreon"></a>
+							<p>Do you like the content we create at Discover Our Parks? Help us keep it going. Whether you become a subscriber by donating on a monthly basis or you make a one-time donation, your support helps us add new features to make our site your go to place for trip planning. It's super easy. Find out how you can help.</p>
+						</mj-text>
+						<mj-button css-class="button" container-background-color="rgba(2,62,64,0.50)" border="1px solid #B49167" background-color="#B49167" font-family="Oswald, sans-serif" border-radius="30px" font-size="16px" font-weight="600" padding-top="0" padding-bottom="23px" text-transform="uppercase" href="https://discoverourparks.com/support/">Learn how you can support us</mj-button>
+				</mj-hero>
+			</mj-column></mj-section>
+		
+		    <mj-section padding="0" background-color="#023E40">
+		        <mj-spacer height="25px" />
+		    </mj-section>
+		    <!-- POTM ARTICLE -->
+		    <mj-section padding="0">
+		        <!-- POTM ARTICLE PARTIAL CONTENT -->
+		        <mj-column background-color="#023E40">
+		        	<mj-image padding="0" src="https://888826.smushcdn.com/2058704/wp-content/uploads/2021/04/POTM-Article.png?lossy&#x3D;0&amp;strip&#x3D;1&amp;webp&#x3D;1" alt="April 2021 - Park of the Month" href="https://discoverourparks.com/apr2021"/>
+		        	<mj-text font-family="Montserrat, sans-serif" font-size="14px" line-height="16px" font-weight="500" color="#ffffff" container-background-color="#023E40" align="center" padding-bottom="0">
+		        		<p>Discovering the beauty of our April 2021 - Park of the Month is an amazing experience. From beautiful hikes into the lower canyons to learning how water & wind can change and transform the landscape, this park has something for everyone!</p><p>Learn more about this fascinating park with recommendations on the best hikes, campgrounds and other activities to enjoy, in the article.</p>
+		        	</mj-text>
+		        	<mj-button css-class="button" container-background-color="#023E40" border="1px solid #B49167" background-color="#B49167" font-family="Oswald, sans-serif" border-radius="30px" font-size="16px" font-weight="600" padding-top="0" padding-bottom="23px" text-transform="uppercase" href="https://discoverourparks.com/apr2021">Read More Here</mj-button>
+		        </mj-column>    </mj-section>
+		
+		<!-- SUB ARTICLES -->
+		<mj-section background-color="#fefefe" padding="8px">
+			<!-- SUB ARTICLES PARTIAL CONTENT -->
+			<!-- ARTICLE 1 -->
+			<mj-column background-color="#fefefe" padding="8px">
+				<mj-image padding="0" src="https://888826.smushcdn.com/2058704/wp-content/uploads/2021/04/sub-article-1.png?lossy&#x3D;0&amp;strip&#x3D;1&amp;webp&#x3D;1" alt="Discover Our Parks Website Update" href="https://discoverourparks.com/1z4p"/>
+				<mj-text font-family="Montserrat, sans-serif" font-size="14px" line-height="16px" font-weight="500" color="#0a0a0a" container-background-color="#fefefe" align="left" padding-left="0" padding-right="0">
+					<p>Coming this May...</p><p>Discover Our Parks' website will be getting an update. With new menu design, easier to find information, park and campground ratings, and much more! We'll also begin adding all the other National Park Service sites to help you discover even more amazing places to visit and stay.</p><p>Learn more about this upcoming "facelift" and how you can get an early peak when the time comes.</p>
+				</mj-text>
+				<mj-button css-class="button" container-background-color="#fefefe" border="1px solid #B49167" background-color="#B49167" font-family="Oswald, sans-serif" border-radius="30px" font-size="16px" font-weight="600" padding-top="0" padding-bottom="23px" text-transform="uppercase" href="https://discoverourparks.com/1z4p">Learn More Here</mj-button>
+			</mj-column>
+			
+			<!-- ARTICLE 2 -->
+			<mj-column background-color="#fefefe" padding="8px">
+				<mj-image padding="0" src="https://888826.smushcdn.com/2058704/wp-content/uploads/2021/04/sub-article-2.jpg?lossy&#x3D;0&amp;strip&#x3D;1&amp;webp&#x3D;1" alt="State Parks are about to drop" href="https://discoverourparks.com/ussp"/>
+				<mj-text font-family="Montserrat, sans-serif" font-size="14px" line-height="16px" font-weight="500" color="#0a0a0a" container-background-color="#fefefe" align="left" padding-left="0" padding-right="0">
+					<p>Also beginning in May and throughout the summer, State Parks will start dropping on the site!</p><p>With over 3,729 state parks, planning trips and finding all the places to visit and stay will be much easier.</p><p>Make sure you take our State Parks poll now because this determines the order the parks will become available on our site. And don't forget to become a Patreon supporter for more updates and early access to the State Parks.</p>
+				</mj-text>
+				<mj-button css-class="button" container-background-color="#fefefe" border="1px solid #B49167" background-color="#B49167" font-family="Oswald, sans-serif" border-radius="30px" font-size="16px" font-weight="600" padding-top="0" padding-bottom="23px" text-transform="uppercase" href="https://discoverourparks.com/ussp">Take the Poll</mj-button>
+			</mj-column></mj-section>
+		
+		<!-- PARK NEWS -->
+		<mj-wrapper padding="0">
+			<!-- PARK NEWS PARTIAL CONTENT -->
+			<!-- PARK NEWS HEADER -->
+			<mj-section padding="0">
+				<mj-column background-color="#023E40" padding="16px 8px">
+					<mj-text font-family="Oswald, sans-serif" font-weight="600" color="#B49167" align="center" font-size="20px" text-transform="uppercase" padding="0" text-decoration="underline">
+						<h2>More Park News</h2>
+					</mj-text>
+				</mj-column>
+			</mj-section>
+			
+			
+			<!-- NEWS TITLE -->
+			<mj-section background-color="#023E40" padding="0 8px">
+				<mj-column padding="8px">
+					<mj-text css-class="news-title" font-family="Oswald, sans-serif" font-weight="600" color="#ffffff" font-size="20px" line-height="22px" text-transform="uppercase" padding="0" text-decoration="underline">
+						<h5><a class="link" href="https://discoverourparks.com/smc7" target="_blank">Self-Driving Vehicles Coming To Yellowstone, Wright Brothers National Memorial</a></h5>
+					</mj-text>
+				</mj-column>
+			</mj-section>
+			
+			<!-- NEWS ARTICLE EXCERPT AND BUTTON -->
+			<mj-section background-color="#023E40" padding="0 8px">
+				<mj-column background-color="#023E40" padding="8px" width="170px">
+					<mj-image padding="0" src="https://888826.smushcdn.com/2058704/wp-content/uploads/2021/04/news-1.jpg?lossy&#x3D;0&amp;strip&#x3D;1&amp;webp&#x3D;1" alt="Self-Driving Vehicles Coming To Yellowstone, Wright Brothers National Memorial" href="https://discoverourparks.com/smc7" width="170px" />
+				</mj-column>
+				<mj-column background-color="#023E40" padding="8px" width="414px">
+					<mj-text css-class="news-text" font-family="Montserrat, sans-serif" font-size="14px" line-height="16px" font-weight="500" color="#ffffff" container-background-color="#023E40" align="left" padding="0">
+						<p>You&#x27;ll want to watch for driverless vehicles in Yellowstone National Park and Wright Brothers National Memorial, and possibly other parks, this year as the National Park Service tests the autonomous vehicles.</p>
+					</mj-text>
+					<mj-group width="100%" padding-top="16px">
+						<mj-column padding="0">
+							<mj-text font-family="Montserrat, sans-serif" font-size="10px" line-height="16px" font-weight="500" color="#ffffff" align="center" padding="0"><b>THIS ARTICLE IS FROM:</b></mj-text>
+							<mj-image src="https://888826.smushcdn.com/2058704/wp-content/uploads/2021/02/NationalParksTraveler-logo.png?lossy=0&strip=1&webp=1" alt="National Parks Traveler Article" href="https://www.nationalparkstraveler.org/" padding="0" width="153px" />
+						</mj-column>
+						<mj-column padding="0">
+							<mj-button css-class="button" padding="10px 0" container-background-color="#023E40" border="1px solid #B49167" background-color="#B49167" font-family="Oswald, sans-serif" border-radius="30px" font-size="16px" font-weight="600" text-transform="uppercase" href="https://discoverourparks.com/smc7">Read more here</mj-button>
+						</mj-column>
+					</mj-group>
+				</mj-column>
+			</mj-section>
+			
+			<!-- DIVIDER -->
+			<mj-section background-color="#023E40" padding="0">
+				<mj-column>
+					<mj-divider border-width="2px" border-style="solid" border-color="#B49167" />
+				</mj-column>
+			</mj-section>
+			
+			
+			<!-- NEWS TITLE -->
+			<mj-section background-color="#023E40" padding="0 8px">
+				<mj-column padding="8px">
+					<mj-text css-class="news-title" font-family="Oswald, sans-serif" font-weight="600" color="#ffffff" font-size="20px" line-height="22px" text-transform="uppercase" padding="0" text-decoration="underline">
+						<h5><a class="link" href="https://discoverourparks.com/n8vi" target="_blank">Jogger Tells Grand Teton National Park Black Bear &quot;I&#x27;m Not Your Food.&quot;</a></h5>
+					</mj-text>
+				</mj-column>
+			</mj-section>
+			
+			<!-- NEWS ARTICLE EXCERPT AND BUTTON -->
+			<mj-section background-color="#023E40" padding="0 8px">
+				<mj-column background-color="#023E40" padding="8px" width="170px">
+					<mj-image padding="0" src="https://888826.smushcdn.com/2058704/wp-content/uploads/2021/04/news-2.jpg?lossy&#x3D;0&amp;strip&#x3D;1&amp;webp&#x3D;1" alt="Jogger Tells Grand Teton National Park Black Bear &quot;I&#x27;m Not Your Food.&quot;" href="https://discoverourparks.com/n8vi" width="170px" />
+				</mj-column>
+				<mj-column background-color="#023E40" padding="8px" width="414px">
+					<mj-text css-class="news-text" font-family="Montserrat, sans-serif" font-size="14px" line-height="16px" font-weight="500" color="#ffffff" container-background-color="#023E40" align="left" padding="0">
+						<p>A jogger out for a run in Grand Teton National Park last week resorted to an unusual defense when he encountered a black bear, shouting out that &quot;I&#x27;m not your food.&quot;</p>
+					</mj-text>
+					<mj-group width="100%" padding-top="16px">
+						<mj-column padding="0">
+							<mj-text font-family="Montserrat, sans-serif" font-size="10px" line-height="16px" font-weight="500" color="#ffffff" align="center" padding="0"><b>THIS ARTICLE IS FROM:</b></mj-text>
+							<mj-image src="https://888826.smushcdn.com/2058704/wp-content/uploads/2021/02/NationalParksTraveler-logo.png?lossy=0&strip=1&webp=1" alt="National Parks Traveler Article" href="https://www.nationalparkstraveler.org/" padding="0" width="153px" />
+						</mj-column>
+						<mj-column padding="0">
+							<mj-button css-class="button" padding="10px 0" container-background-color="#023E40" border="1px solid #B49167" background-color="#B49167" font-family="Oswald, sans-serif" border-radius="30px" font-size="16px" font-weight="600" text-transform="uppercase" href="https://discoverourparks.com/n8vi">Read more here</mj-button>
+						</mj-column>
+					</mj-group>
+				</mj-column>
+			</mj-section>
+			
+			<!-- DIVIDER -->
+			<mj-section background-color="#023E40" padding="0">
+				<mj-column>
+					<mj-divider border-width="2px" border-style="solid" border-color="#B49167" />
+				</mj-column>
+			</mj-section>
+			
+			
+			<!-- NEWS TITLE -->
+			<mj-section background-color="#023E40" padding="0 8px">
+				<mj-column padding="8px">
+					<mj-text css-class="news-title" font-family="Oswald, sans-serif" font-weight="600" color="#ffffff" font-size="20px" line-height="22px" text-transform="uppercase" padding="0" text-decoration="underline">
+						<h5><a class="link" href="https://discoverourparks.com/w3bw" target="_blank">Chisos Basin in Big Bend National Park to Reopen Friday, April 23 after the 1341 acre South Rim Fire</a></h5>
+					</mj-text>
+				</mj-column>
+			</mj-section>
+			
+			<!-- NEWS ARTICLE EXCERPT AND BUTTON -->
+			<mj-section background-color="#023E40" padding="0 8px">
+				<mj-column background-color="#023E40" padding="8px" width="170px">
+					<mj-image padding="0" src="https://888826.smushcdn.com/2058704/wp-content/uploads/2021/04/news-3.jpg?lossy&#x3D;0&amp;strip&#x3D;1&amp;webp&#x3D;1" alt="Chisos Basin in Big Bend National Park to Reopen Friday, April 23 after the 1341 acre South Rim Fire" href="https://discoverourparks.com/w3bw" width="170px" />
+				</mj-column>
+				<mj-column background-color="#023E40" padding="8px" width="414px">
+					<mj-text css-class="news-text" font-family="Montserrat, sans-serif" font-size="14px" line-height="16px" font-weight="500" color="#ffffff" container-background-color="#023E40" align="left" padding="0">
+						<p>With the 1341 acre South Rim Fire at 80% containment and no longer deemed a threat to developed areas, the NPS has scheduled the reopening of the park’s popular Chisos Basin area on Friday, April 23rd at 11:00 AM.</p>
+					</mj-text>
+						<mj-button css-class="button" container-background-color="#023E40" border="1px solid #B49167" background-color="#B49167" font-family="Oswald, sans-serif" border-radius="30px" font-size="16px" font-weight="600" text-transform="uppercase" href="https://discoverourparks.com/w3bw">Read more here</mj-button>
+				</mj-column>
+			</mj-section>
+			
+			<!-- DIVIDER -->
+			<mj-section background-color="#023E40" padding="0">
+				<mj-column>
+					<mj-divider border-width="2px" border-style="solid" border-color="#B49167" />
+				</mj-column>
+			</mj-section>
+			
+			
+			<!-- NEWS TITLE -->
+			<mj-section background-color="#023E40" padding="0 8px">
+				<mj-column padding="8px">
+					<mj-text css-class="news-title" font-family="Oswald, sans-serif" font-weight="600" color="#ffffff" font-size="20px" line-height="22px" text-transform="uppercase" padding="0" text-decoration="underline">
+						<h5><a class="link" href="https://discoverourparks.com/fjot" target="_blank">Covid Proving Costly To The National Park Service</a></h5>
+					</mj-text>
+				</mj-column>
+			</mj-section>
+			
+			<!-- NEWS ARTICLE EXCERPT AND BUTTON -->
+			<mj-section background-color="#023E40" padding="0 8px">
+				<mj-column background-color="#023E40" padding="8px" width="170px">
+					<mj-image padding="0" src="https://888826.smushcdn.com/2058704/wp-content/uploads/2021/04/news-4.jpg?lossy&#x3D;0&amp;strip&#x3D;1&amp;webp&#x3D;1" alt="Covid Proving Costly To The National Park Service" href="https://discoverourparks.com/fjot" width="170px" />
+				</mj-column>
+				<mj-column background-color="#023E40" padding="8px" width="414px">
+					<mj-text css-class="news-text" font-family="Montserrat, sans-serif" font-size="14px" line-height="16px" font-weight="500" color="#ffffff" container-background-color="#023E40" align="left" padding="0">
+						<p>Science, interpretation, and resource management are among the areas in the National Park System that have taken hits from the coronavirus pandemic, according to a study of how park operations across the country were affected by Covid-19.</p>
+					</mj-text>
+					<mj-group width="100%" padding-top="16px">
+						<mj-column padding="0">
+							<mj-text font-family="Montserrat, sans-serif" font-size="10px" line-height="16px" font-weight="500" color="#ffffff" align="center" padding="0"><b>THIS ARTICLE IS FROM:</b></mj-text>
+							<mj-image src="https://888826.smushcdn.com/2058704/wp-content/uploads/2021/02/NationalParksTraveler-logo.png?lossy=0&strip=1&webp=1" alt="National Parks Traveler Article" href="https://www.nationalparkstraveler.org/" padding="0" width="153px" />
+						</mj-column>
+						<mj-column padding="0">
+							<mj-button css-class="button" padding="10px 0" container-background-color="#023E40" border="1px solid #B49167" background-color="#B49167" font-family="Oswald, sans-serif" border-radius="30px" font-size="16px" font-weight="600" text-transform="uppercase" href="https://discoverourparks.com/fjot">Read more here</mj-button>
+						</mj-column>
+					</mj-group>
+				</mj-column>
+			</mj-section>
+			
+			<!-- DIVIDER -->
+			<mj-section background-color="#023E40" padding="0">
+				<mj-column>
+					<mj-divider border-width="2px" border-style="solid" border-color="#B49167" />
+				</mj-column>
+			</mj-section>
+			
+			
+			<!-- NEWS TITLE -->
+			<mj-section background-color="#023E40" padding="0 8px">
+				<mj-column padding="8px">
+					<mj-text css-class="news-title" font-family="Oswald, sans-serif" font-weight="600" color="#ffffff" font-size="20px" line-height="22px" text-transform="uppercase" padding="0" text-decoration="underline">
+						<h5><a class="link" href="https://discoverourparks.com/a3bd" target="_blank">Alsek River Mouth Predicted to Shift 20 Miles South of Current Location in Glacier Bay National Park</a></h5>
+					</mj-text>
+				</mj-column>
+			</mj-section>
+			
+			<!-- NEWS ARTICLE EXCERPT AND BUTTON -->
+			<mj-section background-color="#023E40" padding="0 8px">
+				<mj-column background-color="#023E40" padding="8px" width="170px">
+					<mj-image padding="0" src="https://888826.smushcdn.com/2058704/wp-content/uploads/2021/04/news-5.jpg?lossy&#x3D;0&amp;strip&#x3D;1&amp;webp&#x3D;1" alt="Alsek River Mouth Predicted to Shift 20 Miles South of Current Location in Glacier Bay National Park" href="https://discoverourparks.com/a3bd" width="170px" />
+				</mj-column>
+				<mj-column background-color="#023E40" padding="8px" width="414px">
+					<mj-text css-class="news-text" font-family="Montserrat, sans-serif" font-size="14px" line-height="16px" font-weight="500" color="#ffffff" container-background-color="#023E40" align="left" padding="0">
+						<p>On March 17, a peer-reviewed article in the scientific journal Geomorphology announced the results of research predicting that the Alsek River mouth is likely to shift 20 miles south from its current location in Glacier Bay National Preserve and possibly exit elsewhere from the park into the Gulf of Alaska.</p>
+					</mj-text>
+						<mj-button css-class="button" container-background-color="#023E40" border="1px solid #B49167" background-color="#B49167" font-family="Oswald, sans-serif" border-radius="30px" font-size="16px" font-weight="600" text-transform="uppercase" href="https://discoverourparks.com/a3bd">Read more here</mj-button>
+				</mj-column>
+			</mj-section>
+			
+			<!-- DIVIDER -->
+			<mj-section background-color="#023E40" padding="0">
+				<mj-column>
+					<mj-divider border-width="2px" border-style="solid" border-color="#B49167" />
+				</mj-column>
+			</mj-section>
+			
+			
+			<mj-section background-color="#023E40" padding="0 0 8px">
+				<mj-group css-class="twitter-group" width="60%" padding="0" align="center">
+					<mj-column width="20%">
+						<mj-text padding="10px 0 0 10px">
+							<a href="http://twitter.com/discoverourpark" class="twitter"></a>
+						</mj-text>
+					</mj-column>
+					<mj-column width="80%">
+						<mj-text font-family="Montserrat, sans-serif" font-size="12px" line-height="16px" font-weight="500" color="#ffffff" align="left" padding="0">
+							<p>Follow <a class="link" href="http://twitter.com/discoverourpark">@DiscoverOurPark</a> on Twitter for the latest Park News, including links to articles.</p>
+						</mj-text>
+					</mj-column>
+				</mj-group>
+			</mj-section>
+			
+			
+			
+			
+			
+		</mj-wrapper>
+		
+		<!-- PATREON TEXT BOX -->
+		<mj-section padding="0">
+			<!-- MAIN ARTICLE PARTIAL CONTENT -->
+			<mj-column background-color="#fefefe" padding-top="8px">
+				<mj-text font-family="Oswald, sans-serif" font-weight="600" color="#023E40" align="center" font-size="25px">
+					<h5>Want to suggest a feature or wish we had something on the site?</h5>
+				</mj-text>
+			<!--	<mj-divider border-width="2px" border-style="solid" border-color="#B49167" />-->
+				<mj-text font-family="Montserrat, sans-serif" font-size="14px" line-height="16px" font-weight="500" color="#0a0a0a" container-background-color="#fefefe" align="center" padding-bottom="0" padding-top="0">
+					<p>Become a Patreon supporter and get access to our Discord Server!</p>
+					<p>You get direct contact to our creators and development team, as well as access to join conversations with others who are part of the Discover Our Parks community.</p>
+					<p>Become a Patreon Camper or Adventurer to get access to this information, plus other perks!</p>
+				</mj-text>
+				<mj-button css-class="button" container-background-color="#fefefe" border="1px solid #B49167" background-color="#B49167" font-family="Oswald, sans-serif" border-radius="30px" font-size="16px" font-weight="600" padding-top="0" padding-bottom="23px" text-transform="uppercase" href="http://patreon.com/discoverourparks">Learn More Here</mj-button>
+			</mj-column></mj-section>
+		
+		<!-- SOCIAL -->
+		<mj-section padding="32px 0 0">
+			<mj-column>
+				<mj-text font-family="Montserrat, sans-serif" font-weight="500" align="center" color="#ddd" padding="0">Follow Us On:</mj-text>
+				<mj-text css-class="social" align="center">
+					<a class="facebook" href="http://facebook.com/discoverourparks" title="Facebook"></a>
+					<a class="twitter" href="http://twitter.com/discoverourpark" title="Twitter"></a>
+					<a class="patreon" href="http://patreon.com/discoverourparks" title="Patreon"></a>
+					<a class="instagram" href="http://instagram.com/discoverourparks" title="Instagram"></a>
+				</mj-text>
+			</mj-column></mj-section>
+		
+		<!-- FOOTER -->
+		<mj-section padding="0">
+			<mj-column>
+				<mj-text color="#ddd" align="center" font-family="Montserrat, sans-serif" font-weight="500">
+					<a class="link" href="{sp-browser-url}">View this Email as a Web Page</a>
+				</mj-text>
+				<mj-text color="#ddd" align="center" font-family="Montserrat, sans-serif" font-weight="500">
+					<p style="padding: 0 0 3px; margin: 0;">Discover Our Parks, LLC</p>
+					<a class="link" href="mailto:newsletter@discoverourparks.com">newsletter@discoverourparks.com</a>
+				</mj-text>
+				<mj-text color="#ddd" align="center" font-family="Montserrat, sans-serif" font-weight="500">
+					<a class="link" href="{sp-unsubscribe-url}">Unsubscribe Here</a>
+				</mj-text>
+			</mj-column></mj-section>
+		
+		<!-- IMAGE COPYRIGHTS -->
+		<mj-section padding="64px 0 0">
+			<mj-column>
+				<mj-text color="#888888" align="center" font-family="Oswald, sans-serif" font-weight="600" font-size="20px" padding="0">
+					<h5>Image Credits:</h5>
+				</mj-text>
+				<mj-text css-class="image-credits" color="#888888" align="center" font-family="Montserrat, sans-serif" font-weight="500" font-size="10px" line-height="12px" padding="0">
+			            <p>
+			                        <a class="link" href="https://www.flickr.com/photos/naturenps/32238783940/" target="_blank">"Iceberg in Glacier Bay National Park"</a>
+			                     by 
+			                            NPS Photo
+			                     is licensed under 
+			                            <a class="link" href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+			                    , this image was edited.
+			            </p>
+			            <p>
+			                        "Discover Our Parks - Version 2.0 Menu Preview"
+			                     by 
+			                            Discover Our Parks, LLC
+			                     is licensed under 
+			                            <a class="link" href="https://copyright.gov/" target="_blank">Permission of the Copyright holder</a>
+			                    , this image was edited.
+			            </p>
+			            <p>
+			                        <a class="link" href="https://commons.wikimedia.org/wiki/File:Arch_Rock,_Mackinac_Island,_7.26.2014.jpg" target="_blank">"Arch Rock, Mackinac Island"</a>
+			                     by 
+			                            <a class="link" href="https://commons.wikimedia.org/w/index.php?title&#x3D;User:N8huckins&amp;action&#x3D;edit&amp;redlink&#x3D;1" target="_blank">N8huckins</a>
+			                     is licensed under 
+			                            <a class="link" href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank">CC BY-SA 3.0</a>
+			                    , this image was edited.
+			            </p>
+			            <p>
+			                        <a class="link" href="https://www.flickr.com/photos/tristanloper/36132931372/" target="_blank">"Bryce Amphitheater in Winter"</a>
+			                     by 
+			                            <a class="link" href="https://www.flickr.com/photos/tristanloper/" target="_blank">Tristan Loper</a>
+			                     is licensed under 
+			                            <a class="link" href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC by 2.0</a>
+			                    , this image was edited.
+			            </p>
+					<p>
+								<a class="link" href="https://www.nps.gov/wrbr/learn/news/images/CASSI-Side-View-04-05-2021.png" target="_blank">"CASSI parked at Wright Brothers National Memorial"</a>
+							 by 
+									NPS Photo/Kurt Moses
+							 is licensed under 
+									<a class="link" href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+							, this image was edited.
+					</p>
+					<p>
+								<a class="link" href="https://www.flickr.com/photos/24918962@N07/2353269543/in/photolist-LAf8Li-2kvYznS-2kvYzgV-2WwBEC-2kwyDit-2kwuXfL-28UTTeR-LP9CKd-2kvYzkN-4zX83P-5mwpjy-bEMQB-2jZzQHU-fhn837-fhn9Xy-cYLaRL-fhn8j9-cwPV1A-cYL9Ay-cwQtzw-cwQu1C-cYKkis" target="_blank">"Black Bear in Grand Teton National Park"</a>
+							 by 
+									<a class="link" href="https://www.flickr.com/photos/24918962@N07/" target="_blank">A.Poulos (Iya)</a>
+							 is licensed under 
+									<a class="link" href="https://creativecommons.org/licenses/by/2.0/" target="_blank">CC by 2.0</a>
+							, this image was edited.
+					</p>
+					<p>
+								<a class="link" href="https://twitter.com/BigBendNPS/status/1381720000839315459" target="_blank">"Burned areas on the East Rim in Big Bend National Park"</a>
+							 by 
+									NPS Photo
+							 is licensed under 
+									<a class="link" href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+							, this image was edited.
+					</p>
+					<p>
+								<a class="link" href="https://www.nationalparkstraveler.org/2021/04/covid-proving-costly-national-park-service" target="_blank">"Hikers wore masks in Acadia National Park last summer due to Covid-19"</a>
+							 by 
+									NPS Photo
+							 is licensed under 
+									<a class="link" href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+							, this image was edited.
+					</p>
+					<p>
+								<a class="link" href="https://www.nationalparkstraveler.org/2021/04/climate-change-predicted-reroute-alaskan-river-glacier-bay-national-park" target="_blank">"Alsek River coarse change on Glacier Bay NPS Map"</a>
+							 by 
+									NPS Map
+							 is licensed under 
+									<a class="link" href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+							, this image was edited.
+					</p>
+				</mj-text>
+			</mj-column></mj-section>
+		
+		<!-- DISCLAIMERS -->
+		<mj-section padding="16px 0 0">
+			<mj-column>
+				<mj-text color="#888888" align="center" font-family="Montserrat, sans-serif" font-weight="500" font-size="10px" line-height="12px" padding="0">
+					<p>The use of the "National Parks Traveler" logo does not mean to suggest that Discover Our Parks, LLC is associated with "National Parks Traveler" in any way. If you like their content, we highly suggest you take a look at how you can <a class="link" href="https://discoverourparks.com/5gg4">support them here</a>.</p>
+				</mj-text>
+			</mj-column></mj-section>
+		
+		</mj-wrapper>
+		
+	</mj-body>
+</mjml>
+

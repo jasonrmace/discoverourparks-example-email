@@ -1,0 +1,71 @@
+---
+layout: monthly-emails
+---
+
+<mj-wrapper background-color="#133133">
+<!-- HEADER LOGO -->
+<mj-section padding-bottom="0">
+	{{> header-logo}}
+</mj-section>
+
+<!-- MENU -->
+<mj-section css-class="no-padding-vertical">
+	{{> menu}}
+</mj-section>
+
+<!-- MAIN ARTICLE -->
+<mj-section padding="0">
+	{{> main-article}}
+</mj-section>
+
+<!-- PATREON HERO -->
+<mj-section padding="0">
+	{{> patreon-hero}}
+</mj-section>
+
+{{#if articles.3.Show}}
+    <mj-section padding="0" background-color="#023E40">
+        <mj-spacer height="25px" />
+    </mj-section>
+    <!-- POTM ARTICLE -->
+    <mj-section padding="0">
+        {{> potm-article}}
+    </mj-section>
+{{/if}}
+
+<!-- SUB ARTICLES -->
+<mj-section background-color="#fefefe" padding="8px">
+	{{> sub-articles}}
+</mj-section>
+
+<!-- PARK NEWS -->
+<mj-wrapper padding="0">
+	{{> park-news}}
+</mj-wrapper>
+
+<!-- PATREON TEXT BOX -->
+<mj-section padding="0">
+	{{> patreon-text}}
+</mj-section>
+
+<!-- SOCIAL -->
+<mj-section padding="32px 0 0">
+	{{> social}}
+</mj-section>
+
+<!-- FOOTER -->
+<mj-section padding="0">
+	{{> footer}}
+</mj-section>
+
+<!-- IMAGE COPYRIGHTS -->
+<mj-section padding="64px 0 0">
+	{{> image-copyright}}
+</mj-section>
+
+<!-- DISCLAIMERS -->
+<mj-section padding="16px 0 0">
+	{{> disclaimers}}
+</mj-section>
+
+</mj-wrapper>

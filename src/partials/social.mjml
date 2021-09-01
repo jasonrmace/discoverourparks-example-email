@@ -1,0 +1,9 @@
+<mj-column>
+	<mj-text font-family="Montserrat, sans-serif" font-weight="500" align="center" color="#ddd" padding="0">Follow Us On:</mj-text>
+	<mj-text css-class="social" align="center">
+		<a class="facebook" href="http://facebook.com/discoverourparks" title="Facebook"></a>
+		<a class="twitter" href="http://twitter.com/discoverourpark" title="Twitter"></a>
+		<a class="patreon" href="http://patreon.com/discoverourparks" title="Patreon"></a>
+		<a class="instagram" href="http://instagram.com/discoverourparks" title="Instagram"></a>
+	</mj-text>
+</mj-column>
